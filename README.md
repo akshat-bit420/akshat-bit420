@@ -1,65 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Akshat 👋</h1>
 
-<!--
-**akshat-bit420/akshat-bit420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student • Backend • AI • Systems Programming
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Akshat, a Computer Science student from India pursuing a Bachelor's in CSE (AI & ML).
-
-I'm currently exploring backend development, systems programming, and AI through projects that push me to learn something new. My goal isn't to collect technologies—it's to understand how they work and build things from scratch.
-
-This profile is where I share what I'm building, what I'm learning, and occasionally, the bugs that humble me.
+<p align="center">
+Building projects to understand how software works, one bug at a time.
+</p>
 
 ---
 
-## Currently Working On
+## 🚀 Currently Working On
 
-- 🤖 Building an AI Agent
+- 🤖 Building my own AI Agent
 - 🐚 Building a custom shell (CodeCrafters)
-- 📚 Learning Data Structures & Algorithms
-- 🌱 Preparing for internships, GSoC, and LFX
+- 📚 Practicing Data Structures & Algorithms
+- 🌱 Preparing for internships, GSoC and LFX
 
 ---
 
-## Tech
+## 🛠 Tech
 
-**Languages**
-
-- Python
-- C
-- Learning Go
-
-**Tools**
-
-- Linux
-- Git
+| Languages | Tools | Currently Exploring |
+|-----------|-------|---------------------|
+| Python | Git | Backend Development |
+| C | Linux | AI |
+| Go *(Learning)* | VS Code | Systems Programming |
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
-- 🤖 AI Agent *(WIP)*
-- 📊 Sorting Visualizer
-- 🐚 Custom Shell *(WIP)*
+### 🤖 AI Agent *(Work in Progress)*
+An AI assistant built to explore LLMs, automation, and backend development.
+
+### 📊 Sorting Visualizer
+A Python project to visualize sorting algorithms and understand how they work under the hood.
+
+### 🐚 Custom Shell *(Work in Progress)*
+Building a Unix-like shell from scratch through CodeCrafters to better understand operating systems.
 
 ---
 
-## A Bit About Me
+## 🌱 About Me
 
-- 🍵 Tea > Coffee
-- 🌅 Morning person
+- 🍵 Tea over coffee.
+- 🌅 Morning person.
 - 🐛 Most of my learning happens while debugging.
 - 🧩 Programming has taught me patience and how to sit with a problem instead of looking for a shortcut.
+- 🚀 I enjoy building things that force me to learn something new.
 
-> "I'd rather understand why something works than just know that it works."
+> *"I'd rather understand why something works than just know that it works."*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- Replace YOUR_USERNAME with your GitHub username -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+LinkedIn
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>Still learning. Still building. Still debugging.</i>
+</p>
