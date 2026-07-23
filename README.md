@@ -15,7 +15,7 @@ Building projects to understand how software works, one bug at a time.
 - 🤖 Building my own AI Agent
 - 🐚 Building a custom shell (CodeCrafters)
 - 📚 Practicing Data Structures & Algorithms
-- 🌱 Preparing for internships, GSoC and LFX
+- 🌱 Preparing for internships, GSoC
 
 ---
 
