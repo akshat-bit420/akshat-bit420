@@ -67,7 +67,7 @@ Building a Unix-like shell from scratch through CodeCrafters to better understan
 ## 📫 Connect
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/akshat-sharma-5a9a0a3a3/">
 LinkedIn
 </a>
 </p>
