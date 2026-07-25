@@ -58,12 +58,11 @@ Building a Unix-like shell from scratch through CodeCrafters to better understan
 
 <p align="center">
   <!-- Replace YOUR_USERNAME with your GitHub username -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshat-bit420&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-bit420&theme=github-dark&hide_border=true" />
 </p>
 
 ---
-
 ## 📫 Connect
 
 <p>
