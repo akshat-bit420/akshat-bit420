@@ -95,7 +95,7 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
   <a href="https://www.linkedin.com/in/akshat-sharma-5a9a0a3a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-akshat--bit420-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-akshat.sharma2626-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshat-bit420&color=blue" />
