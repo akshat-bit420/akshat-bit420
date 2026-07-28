@@ -95,14 +95,6 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-bit420&theme=react-dark&hide_border=true" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-bit420&theme=darkhub&no-frame=true&column=4&margin-w=10" />
-</p>
-
----
-
 ## 📫 Connect
 
 <p>
