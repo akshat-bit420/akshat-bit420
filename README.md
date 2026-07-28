@@ -80,7 +80,6 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat-bit420/akshat-bit420/output/github-contribution-grid-snake-dark.svg" />
 </p>
-> ⚠️ The snake animation needs a one-time setup (a GitHub Action that generates the SVG). Instructions below.
  
 ---
  
