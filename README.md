@@ -31,7 +31,7 @@ Building projects to understand how software works, one bug at a time.
 
 ## 📂 Featured Projects
 
-### 🤖 AI Agent *(Work in Progress)*
+### 🤖 AI Agent 
 An AI assistant built to explore LLMs, automation, and backend development.
 
 ### 📊 Sorting Visualizer
