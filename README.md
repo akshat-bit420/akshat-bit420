@@ -9,19 +9,19 @@ Computer Science Student • Backend • AI • Systems Programming
 <p align="center">
 Building projects to understand how software works, one bug at a time.
 </p>
----
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=header" width="100%"/>
 ## 🚀 Currently Working On
  
 - 🤖 Building my own AI Agent
 - 🐚 Building a custom shell (CodeCrafters)
 - 📚 Practicing Data Structures & Algorithms
 - 🌱 Preparing for internships and GSoC
+- 📖 Currently deep in: Boot.dev's backend curriculum (Python, Go)
 ---
  
 ## 🎯 Goals
  
-- 🌍 Contribute to open source — starting small (docs, bug fixes) and building up
+- 🌍 Open to open source contributions — starting small (docs, bug fixes) and building up
 - 🧑‍💻 Land a backend/AI-focused internship
 - 🛠 Get comfortable with systems programming (C/C++) alongside Python and Go
 ---
@@ -58,6 +58,9 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
 - 🚀 I enjoy building things that force me to learn something new.
 > *"I'd rather understand why something works than just know that it works."*
  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 ---
  
 ## 📈 GitHub Stats
@@ -72,18 +75,32 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-bit420&theme=react-dark&hide_border=true" />
 </p>
+### 🏆 Trophies
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat-bit420&theme=darkhub&no-frame=true&column=4&margin-w=10" />
+</p>
+### 🐍 Contribution Snake
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshat-bit420/akshat-bit420/output/github-contribution-grid-snake-dark.svg" />
+</p>
+> ⚠️ The snake animation needs a one-time setup (a GitHub Action that generates the SVG). Instructions below.
+ 
 ---
  
 ## 📫 Connect
  
 <p>
-  <a href="https://www.linkedin.com/in/akshat-sharma-5a9a0a3a3/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/akshat-sharma-5a9a0a3a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-akshat--bit420-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshat-bit420&color=blue" />
 </p>
----
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
 <p align="center">
 <i>Still learning. Still building. Still debugging.</i>
 </p>
