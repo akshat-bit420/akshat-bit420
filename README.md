@@ -83,10 +83,9 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="170" src="https://demolab.com" alt="GitHub Streak" />
+  <img src="https://vercel.app" height="170" alt="GitHub Stats" />
+  <img src="https://herokuapp.com" height="170" alt="GitHub Streak" />
 </p>
-
 
 ## 📫 Connect
 
