@@ -82,10 +82,11 @@ Building a Unix-like shell from scratch through CodeCrafters, in both C and Pyth
 
 ## 📈 GitHub Stats
 
-<p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshat-bit420&show_icons=true&theme=github_dark&hide_border=true" alt="Akshat's GitHub Stats" /> 
-  <img height="170" src="https://demolab.com" alt="Akshat's GitHub Streak" /> 
+<p align="center">
+  <img height="170" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="170" src="https://demolab.com" alt="GitHub Streak" />
 </p>
+
 
 ## 📫 Connect
 
