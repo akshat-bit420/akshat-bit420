@@ -24,7 +24,6 @@ Building projects to understand how software works, one bug at a time.
 - 🐚 Building a custom shell (CodeCrafters)
 - 📚 Practicing Data Structures & Algorithms
 - 🌱 Preparing for internships and GSoC
-- 📖 Currently deep in: Boot.dev's backend curriculum (Python, Go)
 
 </td>
 <td valign="top" width="50%">
