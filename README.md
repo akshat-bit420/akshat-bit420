@@ -89,17 +89,13 @@ I'm still learning, still building, and trying to become the kind of engineer wh
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/akshat-sharma-5a9a0a3a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/akshat-sharma26/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-akshat--sharma26-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-akshat--bit420-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshat-bit420&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
+  <a href="https://discord.com/users/1489561905436688434" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-akshat--sharma26-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p><img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
 
 <p align="center">
   <i>Still learning. Still building. Still debugging.</i>
