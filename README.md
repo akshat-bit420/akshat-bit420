@@ -41,7 +41,7 @@
 **Tools & Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vite,react,ts" alt="Git, GitHub, Linux, VS Code, Vite, React, and TypeScript" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code" />
 </p>
 
 Currently focusing on Python, Go, backend fundamentals, DSA, and understanding how things work beneath the abstractions.
